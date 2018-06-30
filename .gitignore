@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+brainstorming/
+examples/
+build/
+docs/
+#illustrative photoshop files
+*.psd
+#visual source code files
+.vscode/
